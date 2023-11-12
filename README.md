@@ -1,17 +1,17 @@
 # Final Project of Data Analytics Programme | SkillUp | 2023
 
-The Jupyter notebook you provided seems to be a project focused on analyzing Airbnb data. Here's an overview of the initial sections:
+This Jupyter notebook is a project focused on analyzing Airbnb data. Here's an overview of the initial sections:
 
-Introduction: The notebook begins with personal information about the author, Julio Cesar Gouveia Cordero, from Funchal, Portugal. This is followed by an image and some introductory text.
+**Introduction:** The notebook begins with personal information about me, Julio Cesar Gouveia Cordero, from Funchal, Portugal. 
 
-Project Overview: The project is titled "Capstone Project Creation" and is part of the IBM SkillsBuild Europe Delivery - Data Analytics program. The pre-requisites listed include an understanding of Python, Power BI or Tableau, data cleaning, and data visualization. The exercise level is intermediate, and the estimated duration is around 3 hours.
+**Project Overview:** The project is titled "Capstone Project Creation" and is part of the IBM SkillsBuild Europe Delivery - Data Analytics program. The pre-requisites listed include an understanding of Python, Power BI or Tableau, data cleaning, and data visualization. The exercise level is intermediate, and the estimated duration is around 3 hours.
 
-Data Analytics of Airbnb Data:
+### Data Analytics of Airbnb Data:
 
-Objective: The exercise involves performing data analytics on an open dataset from Airbnb. Key tasks include data cleaning, data transformation, and data visualization.
+**Objective:** The exercise involves performing data analytics on an open dataset from Airbnb. Key tasks include data cleaning, data transformation, and data visualization.
 Overview of Airbnb Data: The dataset provides information on Airbnb accommodations, including neighborhood details, room types, pricing, availability, reviews, service fees, cancellation policies, and house rules. The analysis aims to help Airbnb improve its services.
 Dataset Source: The data can be accessed from a specified Kaggle link.
-Task 1: Data Loading (Python):
+**Task 1: Data Loading (Python):**
 
 The task involves reading a CSV file into a pandas DataFrame and then displaying the first five rows and the data types of the columns.
 I will now delve deeper into the notebook to extract key findings and conclusions from the analysis.​​
