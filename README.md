@@ -10,6 +10,8 @@ This Jupyter notebook is a project focused on analyzing Airbnb data. Here's an o
 
 **Objective:** The exercise involves performing data analytics on an open dataset from Airbnb. Key tasks include data cleaning, data transformation, and data visualization.
 Overview of Airbnb Data: The dataset provides information on Airbnb accommodations, including neighborhood details, room types, pricing, availability, reviews, service fees, cancellation policies, and house rules. The analysis aims to help Airbnb improve its services.
+
+
 **Dataset Source:** The data can be accessed from a specified Kaggle link.
 
 **Data Loading (Python):** The task involves reading a CSV file into a pandas DataFrame and then displaying the first five rows and the data types of the columns.
